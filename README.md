@@ -1,4 +1,6 @@
 # infinite-hover-mod
-My mod of https://github.com/NathanJJarvis/infinite-hover
 
-Credit to Wolfgang on opengameart.org for the music: https://opengameart.org/content/snowy-winters-night
+Music: Ted Kerr (https://opengameart.org/content/snowy-winters-night)
+Background image: Mepavi @ You're Perfect Studio (https://opengameart.org/content/sky-tiles)
+Everything else was either made by me or provided by @mrmcfadden.
+
